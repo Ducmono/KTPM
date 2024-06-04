@@ -1,0 +1,15 @@
+C:\Users\lemin\source\repos\webdiver\bin\Debug\webdiver.exe.config
+C:\Users\lemin\source\repos\webdiver\bin\Debug\webdiver.exe
+C:\Users\lemin\source\repos\webdiver\bin\Debug\webdiver.pdb
+C:\Users\lemin\source\repos\webdiver\obj\Debug\webdiver.csproj.AssemblyReference.cache
+C:\Users\lemin\source\repos\webdiver\obj\Debug\webdiver.Form1.resources
+C:\Users\lemin\source\repos\webdiver\obj\Debug\webdiver.Properties.Resources.resources
+C:\Users\lemin\source\repos\webdiver\obj\Debug\webdiver.csproj.GenerateResource.cache
+C:\Users\lemin\source\repos\webdiver\obj\Debug\webdiver.csproj.CoreCompileInputs.cache
+C:\Users\lemin\source\repos\webdiver\obj\Debug\webdiver.exe
+C:\Users\lemin\source\repos\webdiver\obj\Debug\webdiver.pdb
+C:\Users\lemin\source\repos\webdiver\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\lemin\source\repos\webdiver\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\lemin\source\repos\webdiver\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\lemin\source\repos\webdiver\bin\Debug\WebDriver.dll
+C:\Users\lemin\source\repos\webdiver\obj\Debug\webdiver.csproj.Up2Date

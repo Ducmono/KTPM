@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "john deep",
+      "email": "leduc10a2@gmail.com1",
+      "address": "hanoi",
+      "id": "1"
+    },
+    {
+      "id": "4",
+      "name": "duc3",
+      "email": "john@gmail.com",
+      "address": "vungtau"
+    },
+    {
+      "id": "5",
+      "name": "duc3",
+      "email": "john@gmail.com",
+      "address": "vungtau"
+    },
+    {
+      "id": "6",
+      "name": "duc3",
+      "email": "john@gmail.com",
+      "address": "vungtau"
+    },
+    {
+      "id": "3",
+      "name": "duc3",
+      "email": "john@gmail.com",
+      "address": "vungtau"
+    },
+    {
+      "id": "3",
+      "name": "duc3",
+      "email": "john@gmail.com",
+      "address": "vungtau"
+    },
+    {
+      "id": "3",
+      "name": "duc3",
+      "email": "john@gmail.com",
+      "address": "vungtau"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\lemin\source\repos\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lemin\source\repos\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lemin\source\repos\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lemin\source\repos\UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\lemin\source\repos\UnitTestProject\bin\Debug\Data\TestPtb1.csv
+C:\Users\lemin\source\repos\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\lemin\source\repos\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\lemin\source\repos\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lemin\source\repos\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lemin\source\repos\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lemin\source\repos\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lemin\source\repos\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\lemin\source\repos\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\lemin\source\repos\UnitTestProject\obj\Debug\UnitTest.294DD5B1.Up2Date
+C:\Users\lemin\source\repos\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\lemin\source\repos\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\lemin\source\repos\UnitTestProject\bin\Debug\Data\TestPtb2.csv
